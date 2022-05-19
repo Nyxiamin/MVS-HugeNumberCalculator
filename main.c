@@ -7,4 +7,4 @@ int main (void) {
     return EXIT_SUCCESS;
 }
 
-//Modification by User3
+//Modification by the person 3
