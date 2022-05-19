@@ -5,7 +5,7 @@
 
 int main (void) {
     printf("Hello word")
-    return EXIT_SUCCESS;
+    return 0 +EXIT_SUCCESS;
 }
 
 //Modification by the person 3
